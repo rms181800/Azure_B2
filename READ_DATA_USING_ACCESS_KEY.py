@@ -1,0 +1,3 @@
+# Databricks notebook source
+# MAGIC %md
+# MAGIC # THIS NOTEBOOK IS USED TO READ DATA FROM ADLS USING ACCESS KEY
