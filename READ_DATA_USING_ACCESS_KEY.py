@@ -14,5 +14,4 @@ print(even)
 
 # COMMAND ----------
 
-SEELCT * FROM CUSTOMER DF
-WHERE CITY = "ABCD"
+
