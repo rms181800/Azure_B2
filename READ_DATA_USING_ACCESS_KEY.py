@@ -14,4 +14,5 @@ print(even)
 
 # COMMAND ----------
 
-
+# MAGIC %sql
+# MAGIC select * from abcd
